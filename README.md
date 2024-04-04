@@ -19,6 +19,11 @@ So paid advertisement is the most expensive channel, and email marketing is the 
 
 ![316338322-98dca301-0628-4908-8ebf-232641801630](https://github.com/pavanmuthyam/Customer-Lifetime-Value-Analysis/assets/87929903/40757b51-b9ec-41ab-9058-0cf40af6eb38)
 
+Social media is the most effective channel for converting customers, while paid advertising is the least effective. Now let’s calculate the total revenue by channel and have a look at the most and least profitable channels in terms of generating revenue:
+
+![8](https://github.com/pavanmuthyam/Customer-Lifetime-Value-Analysis/assets/87929903/ab7a0672-9836-4bb2-b088-9c93981867c3)
+
+
 So email marketing is the most profitable channel in terms of generating revenue. But there’s not a huge difference between the percentages of revenue generation from all the channels to call any channel the least profitable channel.
 
 Now let’s calculate the return on investment (ROI) for each channel:
